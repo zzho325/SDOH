@@ -8,7 +8,7 @@ This study proposed a comprehensive pipeline in SDOH data classification and ext
 
 ## Usage
 
-### Data proprocessing and purposeful Sampling
+### Data proprocessing and purposeful sampling
 
 - `data_cleaning.py`: break nursing notes to sentences, tokenize sentences
 
