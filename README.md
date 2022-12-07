@@ -6,9 +6,9 @@ Code for study *Identification and extraction of social determinants of health: 
 
 This study proposed a comprehensive pipeline in SDOH data classification and extraction. We provide evidence that the classification model outperforms benchmark models in SDOH category classification, and the extraction model can produce superior performance in extracting key sentences containing SDOH information.
 
-## Collaborators
+## Implementation contributors
 
-[@StevenSSi] and [@zzho325].
+Xiaoyang Si ([@StevenSSi](https://github.com/StevenSSi)), Ziyu Zhou([@zzho325](https://github.com/zzho325))
 
 ## Usage
 
